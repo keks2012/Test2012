@@ -2,5 +2,10 @@
 
 int main () {
     printf ("Hello!\n");
+
+    function Fuck () {
+        return key;
+    }
+
     return 0;
 }
